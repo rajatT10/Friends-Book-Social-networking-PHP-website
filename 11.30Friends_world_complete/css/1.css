@@ -1,0 +1,81 @@
+@charset "utf-8";
+body{ background-color:#9FC}
+.main {
+	width: 90%;
+	margin-right: auto;
+	margin-left: auto;
+}
+.header {
+	float: left;
+	height: 80px;
+	width: 100%;
+}
+.menu {
+	float: left;
+	width: 100%;
+}
+.container {
+	float: left;
+	width: 100%;
+}
+.left {
+	float: left;
+	width: 20%;
+}
+.center {
+	float: left;
+	width: 60%;
+}
+.right {
+	float: right;
+	width: 20%;
+}
+.footer {
+	float: left;
+	width: 100%;
+	text-align: center;
+	font-style: italic;
+	color: #9999FF;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+}
+.logo {
+	float: left;
+	height: 50px;
+	width: 150px;
+	margin-top: 20px;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: 20px;
+}
+.htext {
+	float: left;
+	height: 50px;
+	width: 200px;
+	margin-top: 20px;
+	margin-left: 20px;
+	color: #FF0000;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-weight: bolder;
+	font-size: x-large;
+	text-align: center;
+}
+.search {
+	float: right;
+	height: 50px;
+	width: 250px;
+	margin-top: 20px;
+	margin-right: 10px;
+}
+a {
+	color: #003333;
+	text-decoration: none;
+	font-weight: bold;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+li {
+	list-style-type: none;
+}
+.menu li {
+	float: left;
+	width: 120px;
+}
