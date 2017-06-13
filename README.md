@@ -1,1 +1,2 @@
-# Friends Book Social networking PHP website
+# A simple PHP based social networking website
+# This provides multiple features like sending/accepting friend requests,mails etc.
